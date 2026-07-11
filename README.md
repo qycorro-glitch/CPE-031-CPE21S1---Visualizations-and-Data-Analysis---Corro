@@ -14,5 +14,10 @@ Section: CPE21S1
 # Contents
 - README.md
 
+🎯 Course Description
+- Understanding the role of data in everyday life and decision-making.
+- Selecting appropriate chart types for different kinds of data.
+- Applying visual design principles to create effective data visualizations.
+- Practicing ethical data visualization to communicate insights clearly, accurately, and responsibly
 
 
