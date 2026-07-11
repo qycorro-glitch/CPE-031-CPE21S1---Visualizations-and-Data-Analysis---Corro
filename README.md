@@ -8,4 +8,7 @@ Section: CPE21S1
 
 
 Description
-- This repository was created as a requirement fot the course CPE 031 - Visualizations and Data Analysis. 
+- This repository was created as a requirement fot the course CPE 031 - Visualizations and Data Analysis.
+  
+Contents
+- README.md
